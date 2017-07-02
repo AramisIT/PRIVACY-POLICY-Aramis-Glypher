@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## PRIVACY POLICY MODEL FOR MOBILE APPLICATION
 
-You can use the [editor on GitHub](https://github.com/AramisIT/PRIVACY-POLICY-Aramis-Glypher/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This privacy policy governs your use of the software application Aramis Glypher (“Application”) for mobile devices that was created by Denys Oborskyi. The Application is a web browser with embedded 2D codes scanner.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AramisIT/PRIVACY-POLICY-Aramis-Glypher/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### What information does the Application obtain and how is it used?
+Application captures data from a camera for future processing on your mobile device. 
+### Captured data From Camera
+Application uses camera for only one purpose – get images for future recognition and data extraction. If some data is found it would be passed to your web application. Images captured from camera are not sent anywhere. Application works directly with your web application and doesn’t send any data anywhere additionally. 
+### Does the Application collect precise real time location information of the device?
+This Application does not collect precise information about the location of your mobile device.  
+### What are my opt-out rights?
+You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. 
+### Changes
+This Privacy Policy may be updated with next Application’s updates.
+### Your Consent
+By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States your information will be transferred, processed and stored there under United States privacy standards. 
+### Contact us
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at reshifa@gmail.com.
